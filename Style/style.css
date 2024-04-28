@@ -101,6 +101,7 @@ main a {
     color: var(--cor5);
     background-color: var(--cor1);
     padding: 2px 5px;
+    border-radius: 5px;
 }
 
 main a:hover {
